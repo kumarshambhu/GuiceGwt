@@ -1,0 +1,13 @@
+This is Gwt Hello App based on MVP Pattern with Gin and Guice Intergration
+
+
+  mkdir GuiceGwt
+  cd GuiceGwt
+  git init
+  touch README
+  git add README
+  git commit -m 'first commit'
+  git remote add origin git@github.com:kumarshambhu/GuiceGwt.git
+  git push -u origin master
+      
+
